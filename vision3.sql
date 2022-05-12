@@ -1,2 +1,2 @@
-delete from orders
-where order_id = 8
+delete from customers
+where customer_id = 3
