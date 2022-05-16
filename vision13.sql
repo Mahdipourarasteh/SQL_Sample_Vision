@@ -1,2 +1,2 @@
 select *
-from orders
+from new_orders
